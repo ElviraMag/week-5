@@ -1,0 +1,167 @@
+.header-block{
+position: absolute;
+width: 1060px;
+height: 90px;
+top: 30px;
+left: 30px;
+background: rgb(211, 210, 210);
+}
+
+.header{
+    padding-top: 40px;
+    margin: 0;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 700px;
+    height: 320px;
+    top: 120px;
+    left: 30px;
+    background:rgb(242, 214, 173) ;   
+}
+
+.info-1{
+    width: 150px;
+    height: 80px;
+    margin:20px;
+    flex-grow: 0;
+    background:rgb(250, 207, 142) ;
+}
+
+.info-2{
+    width: 150px;
+    height: 80px;
+    margin:20px;
+    flex-grow: 0;
+    background:rgb(250, 207, 142) ;
+}
+
+.info-3{
+    width: 200px;
+    height: 80px;
+    margin:20px;
+    flex-grow: 2;
+    align-self: end;
+    background:rgb(250, 207, 142) ;
+}
+
+
+.text-1{
+    padding-top: 40px;
+    margin: 0;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+.text-2{
+    padding-top: 40px;
+    margin: 0;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+
+.text-3{
+    padding-top: 40px;
+    margin: 0;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.sidebar{
+    position: absolute;
+    width: 360px;
+    height: 320px;
+    top: 120px;
+    left: 730px;
+    background: rgb(125, 181, 118);    
+}
+
+.sidebar-info{
+    padding-top: 40px;
+    margin: 0;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.footer-main{
+    display: flex;
+    justify-content:space-around;
+    position: absolute;
+    width: 1060px;
+    height: 140px;
+    top: 440px;
+    left: 30px;
+    background: rgb(213, 213, 213);
+}
+
+.footer{
+    width: calc((100% / 2) - 10px);
+    margin:20px;
+    background:rgb(240, 240, 240) ;
+}
+
+.text-4{
+    padding-top: 40px;
+    margin: 0;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    vertical-align: middle;    
+}
+
+.text-5{
+    padding-top: 40px;
+    margin: 0;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    vertical-align: middle;     
+}
+
+.text-6{
+    padding-top: 40px;
+    margin: 0;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    vertical-align: middle;     
+}
+
+.text-7{
+    padding-top: 40px;
+    margin: 0;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    vertical-align: middle;      
+}
+
+
+
+.main{
+    padding-top: 40px;
+    margin: 0;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    vertical-align: middle;
+}
